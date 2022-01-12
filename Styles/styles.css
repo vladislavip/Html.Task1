@@ -1,0 +1,23 @@
+h1{
+background-color: red;
+color: blueviolet;
+font-size: 50px;
+font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+
+h2 {
+
+color: red;
+font-size: 50px;
+color: blueviolet;
+background-color: darkmagenta;
+
+
+}
+
+p{
+
+    border-color: yellowgreen;
+
+
+}
