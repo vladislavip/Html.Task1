@@ -1,0 +1,55 @@
+body {
+
+    background-image: url("./Images/programming-code-coding-or-hacker-background-programming-code-icon-made-with-binary-code-digital-binary-data-and-streaming-digital-code-vector.jpg");
+    background-repeat: repeat;
+    background-attachment:scroll;
+    background-size: contain;
+}
+h1 {
+ color: white;  text-align: left;
+
+ 
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+div {
+
+    
+    padding-right: 50px;
+    
+    width: 500px;
+    align-items: center;
+    border-style: solid;
+    color: whitesmoke;
+    
+    
+}
+
+li{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 200;
+    color:whitesmoke;
+    border-style: groove;
+  
+
+}
+
+img{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+
+
+.text{
+color: whitesmoke;
+text-align: center;
+text-align: justify;
+}
