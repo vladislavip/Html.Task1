@@ -1,0 +1,49 @@
+.firstLine{
+background-color: blue;
+
+width: 33.3%;
+height: 700px;
+float: left;
+}
+
+.secondLine{
+
+background-color: springgreen;
+width: 33.3%;
+height: 700px;
+float: left;
+
+}
+
+.thirdLine{
+
+background-color: rgb(10, 53, 10);
+width: 33.3%;
+height: 700px;
+float: left;
+
+}
+
+.Lines{
+
+   
+    width: 100%;
+    height: 700px;
+}
+
+.PlaceHolder{
+
+width: 100%;
+
+height:100px;
+
+margin-top: 600px;
+color: white;
+background-color: red;
+
+}
+
+p{
+padding: 50px;
+
+}
