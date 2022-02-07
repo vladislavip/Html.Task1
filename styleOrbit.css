@@ -1,0 +1,151 @@
+body{
+
+    margin: 500px;
+    padding: 0px;
+    align-content: center;
+    background-color: white;
+    width: 2500px;
+    height: 2500px;
+    background-image: url(./pictures/white-aesthetic-sky-Favim.com-7303833.gif);
+}
+
+
+.a1{
+
+    width: 2000px;
+    height: 2000px;
+
+    position:relative;
+    display: flex;
+    justify-content:center ;
+    align-items:center ;
+    z-index: 0.5;
+
+
+}
+
+.a2{
+
+    width: 1800px;
+    height: 1800px;
+    
+    position:relative;
+    display: flex;
+    justify-content:center ;
+    align-items:center ;
+    z-index: 0.5;
+
+}
+
+.a3{
+
+    width: 1600px;
+    height: 1600px;
+    
+    position:relative;
+    display: flex;
+    justify-content:center ;
+    align-items:center ;
+    z-index: 0.5;
+
+}
+
+.a4{
+
+    width: 1400px;
+    height: 1400px;
+    
+    position:relative;
+    display: flex;
+    justify-content:center ;
+    align-items:center ;
+    z-index: 0.5;
+
+}
+.a5{
+
+    width: 1200px;
+    height: 1200px;
+    
+    position:relative;
+    display: flex;
+    justify-content:center ;
+    align-items:center ;
+    z-index: 0.5;
+
+}
+
+.a6{
+
+    width: 1000px;
+    height: 1000px;
+     
+    position:relative;
+    display: flex;
+    justify-content:center ;
+    align-items:center ;
+    z-index: 0.5;
+
+}
+
+.a7{
+
+    width: 800px;
+    height: 800px;
+    
+    position:relative;
+    display: flex;
+    justify-content:center ;
+    align-items:center ;
+    z-index: 0.5;
+
+}
+
+.a8{
+
+    width: 600px;
+    height: 600px;
+    
+    position:relative;
+    display: flex;
+    justify-content:center ;
+    align-items:center ;
+
+}
+
+.a9{
+
+    width: 400px;
+    height: 400px;
+    
+    position:relative;
+    display: flex;
+    justify-content:center ;
+    align-items:center ;
+    z-index: 0.5;
+
+}
+
+.a10{
+
+    width: 200px;
+    height: 200px;
+    
+   
+    position:relative;
+    position:relative;
+    display: flex;
+    justify-content:center ;
+    align-items:center ;
+    z-index: 0.5;
+    background-image: url(./pictures/Без\ названия.png);
+    
+    border: none !important;
+
+}
+
+body div{
+
+    border-radius: 100%;
+    border: 10px solid rgb(6, 56, 131);
+}
