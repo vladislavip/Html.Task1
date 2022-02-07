@@ -1,0 +1,32 @@
+h1{
+
+    text-align: left;
+    color: wheat;
+    padding-left: 10px;
+    
+}
+
+li{
+text-decoration: none;
+font-size: 30px;
+color: white;
+
+
+}
+
+li a:hover{
+
+    color: bisque;
+
+}
+
+li a:link{
+    color: aliceblue;
+}
+
+.whats{
+    font-size: 30px;
+    color: white;
+    border-bottom: 5px;
+
+}
